@@ -1,0 +1,11 @@
+[
+    {
+        "id": "1",
+        "name": "Luiz Fellipe",
+        "age": "20",
+        "parents": "Eraldo e Rosiane",
+        "phone": "48 9696 5858",
+        "special": "anything",
+        "status": "on"
+    }
+]
